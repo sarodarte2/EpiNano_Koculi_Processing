@@ -1,6 +1,6 @@
 # EpiNano_Koculi_Processing
 
-# Epinano Data Processing and Plotting Pipeline for E. Coli ribosomal RNA using EpiNano output data for Nanopore Direct RNA Sequencing.
+### Epinano Data Processing and Plotting Pipeline for E. Coli ribosomal RNA using EpiNano output data for Nanopore Direct RNA Sequencing.
 
 ## Overview
 This repository contains a set of scripts to process Epinano data and generate plots for RNA modifications and gene differences in 16s and 23s rRNA.
